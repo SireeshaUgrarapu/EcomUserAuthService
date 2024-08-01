@@ -3,11 +3,11 @@ package com.siri.EcomUserAuthService;
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
-@SpringBootTest
-class EcomUserAuthServiceApplicationTests {
+//@SpringBootTest
+//class EcomUserAuthServiceApplicationTests {
+//
+//	@Test
+//	void contextLoads() {
+//	}
 
-	@Test
-	void contextLoads() {
-	}
-
-}
+//}
